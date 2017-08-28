@@ -1,0 +1,15 @@
+section.form {
+    width: 80%;
+    margin: 5% 10%;
+    display: block;
+    background-color: #cdd;
+}
+
+form {
+    display: block;
+    padding: 5% 10%;
+}
+
+input#fio{
+    text-transform: capitalize;
+}
